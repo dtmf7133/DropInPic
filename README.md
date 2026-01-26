@@ -20,12 +20,9 @@ As you are going to run DropInPic in the PHP process context, using a limited we
 </ul>
 </ol>  
 
-<br>
-
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
 
 To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
-<br>
 
 ## Screenshots  
 	   
